@@ -1,5 +1,7 @@
 # Demographic Data Visualization: Bandar Lampung Population Dashboard
 
+![Dashboard](hasil.jpg)
+
 ## 1. The Problem
 
 Dynamic population growth in Bandar Lampung brings significant challenges in urban development planning, public policy, and the equitable distribution of public facilities. Raw and complex demographic data often makes it difficult for stakeholders to formulate inclusive policies, creating a strong need for comprehensive and easy-to-understand data visualization.
