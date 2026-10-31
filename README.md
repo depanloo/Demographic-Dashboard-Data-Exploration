@@ -8,7 +8,7 @@
 |---|---|
 | **Tools** | Google Looker Studio (dashboard), Google Colab + pandas (loading and inspecting the data) |
 | **Data** | BPS Kota Bandar Lampung, population by sex and sub-district, 2023 |
-| **Context** | Internship (*Kerja Praktik*), Data Science Program, Institut Teknologi Sumatera, at BPS Kota Bandar Lampung, Jun–Aug 2024. Individual project. |
+| **Context** | Kerja Praktik course project, Data Science Program, Institut Teknologi Sumatera (placement at BPS Kota Bandar Lampung, 22 Jun - 23 Aug 2024). Individual academic project, not an official BPS product. |
 | **Live dashboard** | *Add Looker Studio public link here* |
 | **Full report** | [Laporan KP (PDF, Bahasa Indonesia)](Laporan%20KP_Deyvan%20Loxefal.pdf) |
 
