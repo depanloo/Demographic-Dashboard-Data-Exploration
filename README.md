@@ -2,7 +2,7 @@
 
 ![Dashboard preview](hasil.jpg)
 
-**TL;DR:** An interactive Google Looker Studio dashboard showing the 2023 population of Bandar Lampung's **20 sub-districts (*kecamatan*)** by sex, built during my internship at BPS Kota Bandar Lampung. The city has about **1.10 million residents**. **Kemiling** is the largest sub-district (86,300; 7.8% of the city) and **Enggal** the smallest (25,752). The five largest sub-districts hold **33.6%** of the population. The sex ratio is balanced (**102 men per 100 women**) and Enggal is the only sub-district with more women than men.
+**TL;DR:** An interactive Google Looker Studio dashboard showing the 2023 population of Bandar Lampung's **20 sub-districts (*kecamatan*)** by sex, built as my university Kerja Praktik (internship course) project, using public data from BPS Kota Bandar Lampung. The city has about **1.10 million residents**. **Kemiling** is the largest sub-district (86,300; 7.8% of the city) and **Enggal** the smallest (25,752). The five largest sub-districts hold **33.6%** of the population. The sex ratio is balanced (**102 men per 100 women**) and Enggal is the only sub-district with more women than men.
 
 | | |
 |---|---|
